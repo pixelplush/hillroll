@@ -1,0 +1,33 @@
+{
+  "name": "pixelplush-hillroll",
+  "version": "1.0.0",
+  "description": "Stream Overlay Hill Rolling Race Game! https://www.pixelplush.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelplush/hillroll.git"
+  },
+  "keywords": [
+    "PixelPlush",
+    "Game",
+    "Hill",
+    "Rolling",
+    "Race",
+    "Pixel",
+    "Maaya",
+    "MaayaInsane",
+    "Instafluff"
+  ],
+  "author": "PixelPlush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixelplush/hillroll/issues"
+  },
+  "homepage": "https://github.com/pixelplush/hillroll#readme",
+  "dependencies": {
+    "webwebweb": "^1.1.10"
+  }
+}
